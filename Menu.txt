@@ -1,0 +1,6 @@
+Gulai ;Harga : 10.000
+Balado ;Harga : 15.000
+Sate Kambing ;Harga : 10.000
+Soto ;Harga : 5.000
+Es teh anget ;Harga : 3.000
+Bakso ;Harga : 8.000
